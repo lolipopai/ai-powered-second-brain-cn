@@ -44,6 +44,19 @@ obsidian-chatgpt-profile-loop/
 
 ---
 
+## ⚙️ 与 Cursor 协作使用指南
+
+本项目包含的 prd.md（产品需求文档）可直接配合 Cursor 使用，实现自动生成 Obsidian 文件结构、模板和脚手架：
+
+1. 打开 Cursor，新建空白项目或 Markdown 工程
+2. 将 prd.md 复制粘贴进项目中，并选中让 GPT 运行任务（"Implement this" 或 "Generate structure"）
+3. Cursor 将自动创建 personal-vault-template 文件夹及所有 Markdown 模板页面
+4. 后续你可在 Cursor 中继续迭代内容，并同步到你的本地 Obsidian Vault
+
+📌 建议在 prd.md 中使用中文书写明确模块名、字段结构、内容指引，GPT 在 Cursor 中表现良好
+
+---
+
 ## 🛠️ 使用方法
 
 1. 克隆本项目或下载 zip
