@@ -1,0 +1,13 @@
+<GenerateObsidianVault>
+You are an expert in Obsidian + Markdown structure…
+目标：根据下面 PRD，为用户当前文件夹生成 10 个 .md 页面（中文）。
+输出：纯 Markdown 文件内容，不要解释。
+
+PRD 概要：
+{{文件(prd.md)}}
+
+步骤：
+1. 创建文件列表
+2. 为每个文件输出符合要求的内容
+3. 完成后提示“✅ Vault Generated”
+</GenerateObsidianVault>
