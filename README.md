@@ -1,29 +1,33 @@
-# Obsidian + ChatGPT 个人画像协作工作流
+# ai-powered-second-brain-cn
 
-> 利用 Obsidian 构建你的第二大脑，并结合 ChatGPT 实现个性化成长、反思与知识管理。
+> 中文版项目：打造 Obsidian + ChatGPT 的个人画像成长闭环（第二大脑 + AI 协作）
+
+本项目为中文用户打造，后续将发布英文国际版：ai-powered-second-brain（敬请关注）
 
 ---
 
 ## 🧭 项目目录结构
 
 ```
-obsidian-chatgpt-profile-loop/
-├── README.md                # 项目说明与使用引导
+ai-powered-second-brain-cn/
+├── README.md                # 中文项目说明与使用引导
 ├── personal-vault-template/ # 个人画像模板（markdown 文件）
 │   ├── 00-索引.md
 │   ├── 01-基本信息.md
 │   ├── ...
-├── prd.md                   # 产品需求说明文档
+├── prd.md                   # 产品需求说明文档（可用于 Cursor 生成）
 ├── 画像摘要模板.md          # 提供给 ChatGPT 的个人画像概要结构
 ├── chatgpt-workflow.md      # 工作流文档 + Mermaid 图
-└── LICENSE
+├── README.en.md             # 英文版占位（待发布）
+├── LICENSE
+└── og-image.png             # GitHub 社交预览图
 ```
 
 ---
 
 ## 📌 项目内容简介
 
-本项目旨在帮助用户：
+本项目旨在帮助中文用户：
 
 - 利用 Obsidian 构建结构化的个人画像系统
 - 总结画像摘要用于 ChatGPT 协作
@@ -99,4 +103,5 @@ MIT License © 2025 Zhang Cheng
 
 ---
 
-如你喜欢本项目，欢迎 ⭐Star 并分享给你的朋友！也欢迎 PR 提交新的画像模块、工作流建议或英文版翻译 🙌
+如你喜欢本项目，欢迎 ⭐Star 并分享给你的朋友！
+如愿意参与英文版建设，请前往未来仓库 → ai-powered-second-brain 🙌
