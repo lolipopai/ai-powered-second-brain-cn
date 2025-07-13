@@ -108,7 +108,7 @@ flowchart TD
 
 ## 📃 许可协议
 
-MIT License © 2025 Zhang Cheng
+MIT License © 2025 LolipopAI
 
 ---
 
